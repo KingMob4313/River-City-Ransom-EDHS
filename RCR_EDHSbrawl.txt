@@ -1,0 +1,920 @@
+
+
+
+                      / =============================== \
+                    <             [09] Gangs              >
+                      \ =============================== /
+
+<---[09a] Generic Dudes----------------------------------------->
+<---[09a] Generic Dudes----------------------------------------->
+
+These no-names have much will power but are very short-tempered and violent.
+They like to use weapons when the fight, but they are not very strong. They
+have a score to settle with Ryan. [$0.50]
+
+ /================\     /================\     /================\
+| Larry            |   | Barry            |   | Terry            |
+ >================<     >================<     >================<
+| Stamina    |  14 |   | Stamina    |  12 |   | Stamina    |  12 |
+| Punch      |  12 |   | Punch      |  02 |   | Punch      |  03 |
+| Kick       |  04 |   | Kick       |  14 |   | Kick       |  04 |
+| Weapon     |  06 |   | Weapon     |  05 |   | Weapon     |  15 |
+| Throwing   |  05 |   | Throwing   |  04 |   | Throwing   |  04 |
+| Agility    |  06 |   | Agility    |  07 |   | Agility    |  07 |
+| Defence    |  05 |   | Defence    |  05 |   | Defence    |  05 |
+| Strength   |  01 |   | Strength   |  02 |   | Strength   |  01 |
+| Will Power |  08 |   | Will Power |  09 |   | Will Power |  09 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Jerry            |   | Carry            |   | Gary             |
+ >================<     >================<     >================<
+| Stamina    |  14 |   | Stamina    |  10 |   | Stamina    |  12 |
+| Punch      |  02 |   | Punch      |  04 |   | Punch      |  04 |
+| Kick       |  05 |   | Kick       |  05 |   | Kick       |  05 |
+| Weapon     |  05 |   | Weapon     |  06 |   | Weapon     |  06 |
+| Throwing   |  05 |   | Throwing   |  03 |   | Throwing   |  03 |
+| Agility    |  06 |   | Agility    |  15 |   | Agility    |  06 |
+| Defence    |  05 |   | Defence    |  06 |   | Defence    |  14 |
+| Strength   |  11 |   | Strength   |  02 |   | Strength   |  03 |
+| Will Power |  08 |   | Will Power |  08 |   | Will Power |  07 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Harry            |   | Perry            |   | Ralph            |
+ >================<     >================<     >================<
+| Stamina    |  10 |   | Stamina    |  12 |   | Stamina    |  30 |
+| Punch      |  03 |   | Punch      |  03 |   | Punch      |  03 |
+| Kick       |  05 |   | Kick       |  06 |   | Kick       |  06 |
+| Weapon     |  07 |   | Weapon     |  09 |   | Weapon     |  06 |
+| Throwing   |  13 |   | Throwing   |  04 |   | Throwing   |  04 |
+| Agility    |  06 |   | Agility    |  05 |   | Agility    |  05 |
+| Defence    |  05 |   | Defence    |  04 |   | Defence    |  04 |
+| Strength   |  03 |   | Strength   |  02 |   | Strength   |  02 |
+| Will Power |  07 |   | Will Power |  17 |   | Will Power |  09 |
+ \================/     \================/     \================/
+
+
+<---[09b] Frat Guys--------------------------------------------->
+<---[09b] Gangstas --------------------------------------------->
+
+These poor rich boys have weak characters, and will run away as soon as they
+think they are in danger. When they grab a weapon, however, they change and
+get violent. They love to throw weapons. [$0.55]
+Doug                    Khnen                    Aaron
+ /================\     /================\     /================\
+| Skip             |   | Trent            |   | Logan            |
+ >================<     >================<     >================<
+| Stamina    |  12 |   | Stamina    |  10 |   | Stamina    |  10 |
+| Punch      |  18 |   | Punch      |  08 |   | Punch      |  09 |
+| Kick       |  04 |   | Kick       |  14 |   | Kick       |  04 |
+| Weapon     |  07 |   | Weapon     |  06 |   | Weapon     |  16 |
+| Throwing   |  11 |   | Throwing   |  10 |   | Throwing   |  10 |
+| Agility    |  07 |   | Agility    |  08 |   | Agility    |  08 |
+| Defence    |  04 |   | Defence    |  04 |   | Defence    |  04 |
+| Strength   |  08 |   | Strength   |  09 |   | Strength   |  08 |
+| Will Power |  07 |   | Will Power |  08 |   | Will Power |  08 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Biff             |   | Drake            |   | Trip             |
+ >================<     >================<     >================<
+| Stamina    |  12 |   | Stamina    |  08 |   | Stamina    |  10 |
+| Punch      |  08 |   | Punch      |  10 |   | Punch      |  10 |
+| Kick       |  05 |   | Kick       |  05 |   | Kick       |  05 |
+| Weapon     |  06 |   | Weapon     |  07 |   | Weapon     |  07 |
+| Throwing   |  11 |   | Throwing   |  09 |   | Throwing   |  09 |
+| Agility    |  07 |   | Agility    |  16 |   | Agility    |  07 |
+| Defence    |  04 |   | Defence    |  05 |   | Defence    |  13 |
+| Strength   |  18 |   | Strength   |  09 |   | Strength   |  10 |
+| Will Power |  07 |   | Will Power |  07 |   | Will Power |  06 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Tyler            |   | Grant            |   | Clark            |
+ >================<     >================<     >================<
+| Stamina    |  18 |   | Stamina    |  10 |   | Stamina    |  28 |
+| Punch      |  09 |   | Punch      |  09 |   | Punch      |  09 |
+| Kick       |  05 |   | Kick       |  06 |   | Kick       |  06 |
+| Weapon     |  08 |   | Weapon     |  08 |   | Weapon     |  07 |
+| Throwing   |  19 |   | Throwing   |  10 |   | Throwing   |  10 |
+| Agility    |  07 |   | Agility    |  06 |   | Agility    |  06 |
+| Defence    |  04 |   | Defence    |  03 |   | Defence    |  03 |
+| Strength   |  10 |   | Strength   |  09 |   | Strength   |  09 |
+| Will Power |  06 |   | Will Power |  16 |   | Will Power |  08 |
+ \================/     \================/     \================/
+
+
+<---[09c] Jocks------------------------------------------------->
+
+They use running techniques and jump tricks. When they have weapons they never
+throw them. These bench warmers carry strong grudges against Alex. [$0.60]
+                                                Paul
+ /================\     /================\     /================\
+| Rex              |   | Lance            |   | Dirk             |
+ >================<     >================<     >================<
+| Stamina    |  20 |   | Stamina    |  18 |   | Stamina    |  18 |
+| Punch      |  15 |   | Punch      |  05 |   | Punch      |  06 |
+| Kick       |  10 |   | Kick       |  20 |   | Kick       |  10 |
+| Weapon     |  10 |   | Weapon     |  09 |   | Weapon     |  19 |
+| Throwing   |  08 |   | Throwing   |  07 |   | Throwing   |  07 |
+| Agility    |  07 |   | Agility    |  08 |   | Agility    |  08 |
+| Defence    |  12 |   | Defence    |  12 |   | Defence    |  12 |
+| Strength   |  08 |   | Strength   |  09 |   | Strength   |  08 |
+| Will Power |  10 |   | Will Power |  11 |   | Will Power |  11 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Nick             |   | Brad             |   | Matt             |
+ >================<     >================<     >================<
+| Stamina    |  20 |   | Stamina    |  16 |   | Stamina    |  18 |
+| Punch      |  05 |   | Punch      |  07 |   | Punch      |  07 |
+| Kick       |  11 |   | Kick       |  11 |   | Kick       |  11 |
+| Weapon     |  09 |   | Weapon     |  10 |   | Weapon     |  10 |
+| Throwing   |  08 |   | Throwing   |  06 |   | Throwing   |  06 |
+| Agility    |  07 |   | Agility    |  16 |   | Agility    |  07 |
+| Defence    |  12 |   | Defence    |  13 |   | Defence    |  21 |
+| Strength   |  18 |   | Strength   |  09 |   | Strength   |  10 |
+| Will Power |  10 |   | Will Power |  10 |   | Will Power |  09 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Curt             |   | Mike             |   | Jake             |
+ >================<     >================<     >================<
+| Stamina    |  16 |   | Stamina    |  18 |   | Stamina    |  36 |
+| Punch      |  06 |   | Punch      |  06 |   | Punch      |  06 |
+| Kick       |  11 |   | Kick       |  12 |   | Kick       |  12 |
+| Weapon     |  10 |   | Weapon     |  11 |   | Weapon     |  10 |
+| Throwing   |  16 |   | Throwing   |  07 |   | Throwing   |  07 |
+| Agility    |  07 |   | Agility    |  06 |   | Agility    |  06 |
+| Defence    |  12 |   | Defence    |  11 |   | Defence    |  11 |
+| Strength   |  10 |   | Strength   |  09 |   | Strength   |  09 |
+| Will Power |  09 |   | Will Power |  19 |   | Will Power |  11 |
+ \================/     \================/     \================/
+
+
+<---[09d] Home Boys--------------------------------------------->
+<---[09d] Burnouts -------------------------------------------->
+
+These couch potatoes are slow, but fight their enemy with all the strength
+they have. Lots of punch power. [$0.75]
+
+ /================\     /================\     /================\
+| Robby            |   | Chip             |   | Ernie            |
+ >================<     >================<     >================<
+| Stamina    |  34 |   | Stamina    |  32 |   | Stamina    |  32 |
+| Punch      |  22 |   | Punch      |  12 |   | Punch      |  12 |
+| Kick       |  11 |   | Kick       |  21 |   | Kick       |  21 |
+| Weapon     |  13 |   | Weapon     |  12 |   | Weapon     |  12 |
+| Throwing   |  14 |   | Throwing   |  13 |   | Throwing   |  13 |
+| Agility    |  10 |   | Agility    |  11 |   | Agility    |  11 |
+| Defence    |  11 |   | Defence    |  11 |   | Defence    |  11 |
+| Strength   |  14 |   | Strength   |  15 |   | Strength   |  15 |
+| Will Power |  14 |   | Will Power |  15 |   | Will Power |  15 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Steve            |   | Doug             |   | Greg             |
+ >================<     >================<     >================<
+| Stamina    |  34 |   | Stamina    |  30 |   | Stamina    |  32 |
+| Punch      |  12 |   | Punch      |  14 |   | Punch      |  14 |
+| Kick       |  12 |   | Kick       |  12 |   | Kick       |  12 |
+| Weapon     |  12 |   | Weapon     |  13 |   | Weapon     |  13 |
+| Throwing   |  14 |   | Throwing   |  12 |   | Throwing   |  12 |
+| Agility    |  10 |   | Agility    |  19 |   | Agility    |  10 |
+| Defence    |  11 |   | Defence    |  12 |   | Defence    |  20 |
+| Strength   |  24 |   | Strength   |  15 |   | Strength   |  16 |
+| Will Power |  14 |   | Will Power |  14 |   | Will Power |  13 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Peter            |   | Bobby            |   | Brady            |
+ >================<     >================<     >================<
+| Stamina    |  30 |   | Stamina    |  32 |   | Stamina    |  50 |
+| Punch      |  13 |   | Punch      |  13 |   | Punch      |  13 |
+| Kick       |  12 |   | Kick       |  13 |   | Kick       |  13 |
+| Weapon     |  14 |   | Weapon     |  14 |   | Weapon     |  13 |
+| Throwing   |  22 |   | Throwing   |  13 |   | Throwing   |  13 |
+| Agility    |  10 |   | Agility    |  09 |   | Agility    |  09 |
+| Defence    |  11 |   | Defence    |  10 |   | Defence    |  10 |
+| Strength   |  16 |   | Strength   |  15 |   | Strength   |  15 |
+| Will Power |  13 |   | Will Power |  23 |   | Will Power |  15 |
+ \================/     \================/     \================/
+
+
+<---[09e] Mob--------------------------------------------------->
+<---[09e] TBH--------------------------------------------------->
+
+These tough guys are strong, but not good at defense. They also like to use
+tires as weapons. [$0.90]
+
+ /================\     /================\     /================\
+| Lefty            |   | Sid              |   | Tony             |
+ >================<     >================<     >================<
+| Stamina    |  34 |   | Stamina    |  34 |   | Stamina    |  32 |
+| Punch      |  26 |   | Punch      |  16 |   | Punch      |  17 |
+| Kick       |  15 |   | Kick       |  25 |   | Kick       |  15 |
+| Weapon     |  14 |   | Weapon     |  13 |   | Weapon     |  23 |
+| Throwing   |  13 |   | Throwing   |  12 |   | Throwing   |  12 |
+| Agility    |  14 |   | Agility    |  15 |   | Agility    |  15 |
+| Defence    |  15 |   | Defence    |  15 |   | Defence    |  15 |
+| Strength   |  17 |   | Strength   |  18 |   | Strength   |  17 |
+| Will Power |  13 |   | Will Power |  14 |   | Will Power |  14 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Marco            |   | Vinny            |   | Mouse            |
+ >================<     >================<     >================<
+| Stamina    |  34 |   | Stamina    |  30 |   | Stamina    |  32 |
+| Punch      |  16 |   | Punch      |  18 |   | Punch      |  18 |
+| Kick       |  16 |   | Kick       |  16 |   | Kick       |  16 |
+| Weapon     |  13 |   | Weapon     |  14 |   | Weapon     |  14 |
+| Throwing   |  13 |   | Throwing   |  11 |   | Throwing   |  11 |
+| Agility    |  14 |   | Agility    |  23 |   | Agility    |  14 |
+| Defence    |  15 |   | Defence    |  16 |   | Defence    |  24 |
+| Strength   |  27 |   | Strength   |  18 |   | Strength   |  19 |
+| Will Power |  13 |   | Will Power |  13 |   | Will Power |  12 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Max              |   | Manny            |   | Louie            |
+ >================<     >================<     >================<
+| Stamina    |  30 |   | Stamina    |  32 |   | Stamina    |  50 |
+| Punch      |  17 |   | Punch      |  17 |   | Punch      |  17 |
+| Kick       |  16 |   | Kick       |  17 |   | Kick       |  17 |
+| Weapon     |  15 |   | Weapon     |  15 |   | Weapon     |  14 |
+| Throwing   |  21 |   | Throwing   |  12 |   | Throwing   |  12 |
+| Agility    |  14 |   | Agility    |  13 |   | Agility    |  13 |
+| Defence    |  15 |   | Defence    |  15 |   | Defence    |  14 |
+| Strength   |  19 |   | Strength   |  18 |   | Strength   |  18 |
+| Will Power |  12 |   | Will Power |  22 |   | Will Power |  14 |
+ \================/     \================/     \================/
+
+
+<---[09f] Squids------------------------------------------------>
+<---[09f] Squids------------------------------------------------>
+
+This bunch of eggheads specialize in kicks and sprinting jumps. When they have
+weapons they usually throw them. [$1.00]
+
+ /================\     /================\     /================\
+| Herb             |   | Erwin            |   | Felix            |
+ >================<     >================<     >================<
+| Stamina    |  34 |   | Stamina    |  32 |   | Stamina    |  32 |
+| Punch      |  24 |   | Punch      |  14 |   | Punch      |  15 |
+| Kick       |  19 |   | Kick       |  29 |   | Kick       |  19 |
+| Weapon     |  19 |   | Weapon     |  18 |   | Weapon     |  28 |
+| Throwing   |  20 |   | Throwing   |  19 |   | Throwing   |  19 |
+| Agility    |  19 |   | Agility    |  20 |   | Agility    |  20 |
+| Defence    |  16 |   | Defence    |  16 |   | Defence    |  16 |
+| Strength   |  14 |   | Strength   |  15 |   | Strength   |  14 |
+| Will Power |  14 |   | Will Power |  15 |   | Will Power |  15 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Morty            |   | Berni            |   | Byron            |
+ >================<     >================<     >================<
+| Stamina    |  34 |   | Stamina    |  30 |   | Stamina    |  32 |
+| Punch      |  14 |   | Punch      |  16 |   | Punch      |  16 |
+| Kick       |  20 |   | Kick       |  20 |   | Kick       |  20 |
+| Weapon     |  18 |   | Weapon     |  19 |   | Weapon     |  19 |
+| Throwing   |  20 |   | Throwing   |  18 |   | Throwing   |  18 |
+| Agility    |  19 |   | Agility    |  28 |   | Agility    |  19 |
+| Defence    |  16 |   | Defence    |  17 |   | Defence    |  25 |
+| Strength   |  24 |   | Strength   |  15 |   | Strength   |  16 |
+| Will Power |  14 |   | Will Power |  14 |   | Will Power |  13 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Howie            |   | Waldo            |   | Linus            |
+ >================<     >================<     >================<
+| Stamina    |  30 |   | Stamina    |  32 |   | Stamina    |  50 |
+| Punch      |  15 |   | Punch      |  15 |   | Punch      |  15 |
+| Kick       |  20 |   | Kick       |  21 |   | Kick       |  21 |
+| Weapon     |  20 |   | Weapon     |  20 |   | Weapon     |  19 |
+| Throwing   |  28 |   | Throwing   |  19 |   | Throwing   |  19 |
+| Agility    |  19 |   | Agility    |  18 |   | Agility    |  18 |
+| Defence    |  16 |   | Defence    |  15 |   | Defence    |  15 |
+| Strength   |  16 |   | Strength   |  15 |   | Strength   |  15 |
+| Will Power |  13 |   | Will Power |  23 |   | Will Power |  15 |
+ \================/     \================/     \================/
+
+
+<---[09g] Internationals---------------------------------------->
+
+This group of exchange students prefer to fight with their bare hands and have
+tremendous punching power. [$1.50]
+
+ /================\     /================\     /================\
+| Boris            |   | Yemi             |   | Fuji             |
+ >================<     >================<     >================<
+| Stamina    |  36 |   | Stamina    |  34 |   | Stamina    |  34 |
+| Punch      |  31 |   | Punch      |  21 |   | Punch      |  22 |
+| Kick       |  19 |   | Kick       |  29 |   | Kick       |  19 |
+| Weapon     |  17 |   | Weapon     |  15 |   | Weapon     |  25 |
+| Throwing   |  18 |   | Throwing   |  17 |   | Throwing   |  17 |
+| Agility    |  19 |   | Agility    |  20 |   | Agility    |  20 |
+| Defence    |  21 |   | Defence    |  21 |   | Defence    |  21 |
+| Strength   |  17 |   | Strength   |  17 |   | Strength   |  17 |
+| Will Power |  21 |   | Will Power |  22 |   | Will Power |  22 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Wang             |   | Akbar            |   | Juan             |
+ >================<     >================<     >================<
+| Stamina    |  36 |   | Stamina    |  32 |   | Stamina    |  34 |
+| Punch      |  21 |   | Punch      |  23 |   | Punch      |  23 |
+| Kick       |  20 |   | Kick       |  20 |   | Kick       |  20 |
+| Weapon     |  15 |   | Weapon     |  16 |   | Weapon     |  16 |
+| Throwing   |  18 |   | Throwing   |  16 |   | Throwing   |  16 |
+| Agility    |  19 |   | Agility    |  28 |   | Agility    |  19 |
+| Defence    |  21 |   | Defence    |  22 |   | Defence    |  30 |
+| Strength   |  27 |   | Strength   |  18 |   | Strength   |  19 |
+| Will Power |  21 |   | Will Power |  21 |   | Will Power |  20 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Andre            |   | Hans             |   | Lars             |
+ >================<     >================<     >================<
+| Stamina    |  32 |   | Stamina    |  34 |   | Stamina    |  52 |
+| Punch      |  22 |   | Punch      |  22 |   | Punch      |  22 |
+| Kick       |  20 |   | Kick       |  21 |   | Kick       |  21 |
+| Weapon     |  17 |   | Weapon     |  17 |   | Weapon     |  16 |
+| Throwing   |  26 |   | Throwing   |  17 |   | Throwing   |  17 |
+| Agility    |  19 |   | Agility    |  18 |   | Agility    |  18 |
+| Defence    |  21 |   | Defence    |  21 |   | Defence    |  20 |
+| Strength   |  19 |   | Strength   |  18 |   | Strength   |  18 |
+| Will Power |  20 |   | Will Power |  30 |   | Will Power |  22 |
+ \================/     \================/     \================/
+
+
+<---[09h] Cowboys----------------------------------------------->
+<---[09h] TCMafia----------------------------------------------->
+
+They have very little kick power and don't like to attack without weapons. But
+when these good ol' boys have weapons, look out. [$1.20]
+
+ /================\     /================\     /================\
+| Bubba            |   | Shane            |   | Bart             |
+ >================<     >================<     >================<
+| Stamina    |  48 |   | Stamina    |  46 |   | Stamina    |  46 |
+| Punch      |  30 |   | Punch      |  20 |   | Punch      |  20 |
+| Kick       |  17 |   | Kick       |  27 |   | Kick       |  27 |
+| Weapon     |  24 |   | Weapon     |  23 |   | Weapon     |  23 |
+| Throwing   |  21 |   | Throwing   |  20 |   | Throwing   |  20 |
+| Agility    |  20 |   | Agility    |  21 |   | Agility    |  21 |
+| Defence    |  20 |   | Defence    |  20 |   | Defence    |  20 |
+| Strength   |  21 |   | Strength   |  22 |   | Strength   |  22 |
+| Will Power |  21 |   | Will Power |  22 |   | Will Power |  22 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Luke             |   | Duke             |   | Slim             |
+ >================<     >================<     >================<
+| Stamina    |  48 |   | Stamina    |  44 |   | Stamina    |  46 |
+| Punch      |  20 |   | Punch      |  22 |   | Punch      |  22 |
+| Kick       |  18 |   | Kick       |  18 |   | Kick       |  18 |
+| Weapon     |  23 |   | Weapon     |  24 |   | Weapon     |  24 |
+| Throwing   |  21 |   | Throwing   |  19 |   | Throwing   |  19 |
+| Agility    |  20 |   | Agility    |  29 |   | Agility    |  20 |
+| Defence    |  20 |   | Defence    |  21 |   | Defence    |  29 |
+| Strength   |  31 |   | Strength   |  22 |   | Strength   |  23 |
+| Will Power |  21 |   | Will Power |  21 |   | Will Power |  20 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Jed              |   | Dusty            |   | Merle            |
+ >================<     >================<     >================<
+| Stamina    |  44 |   | Stamina    |  46 |   | Stamina    |  64 |
+| Punch      |  21 |   | Punch      |  21 |   | Punch      |  21 |
+| Kick       |  18 |   | Kick       |  19 |   | Kick       |  19 |
+| Weapon     |  25 |   | Weapon     |  25 |   | Weapon     |  24 |
+| Throwing   |  29 |   | Throwing   |  20 |   | Throwing   |  20 |
+| Agility    |  20 |   | Agility    |  19 |   | Agility    |  19 |
+| Defence    |  20 |   | Defence    |  19 |   | Defence    |  19 |
+| Strength   |  23 |   | Strength   |  22 |   | Strength   |  22 |
+| Will Power |  20 |   | Will Power |  30 |   | Will Power |  22 |
+ \================/     \================/     \================/
+
+
+<---[09i] Plague------------------------------------------------>
+
+These misfits are very powerful and love to attack using lead pipes. Be
+careful and good luck! [$1.25]
+
+ /================\     /================\     /================\
+| Slash            |   | Edge             |   | Blaze            |
+ >================<     >================<     >================<
+| Stamina    |  48 |   | Stamina    |  46 |   | Stamina    |  46 |
+| Punch      |  34 |   | Punch      |  24 |   | Punch      |  25 |
+| Kick       |  24 |   | Kick       |  34 |   | Kick       |  24 |
+| Weapon     |  22 |   | Weapon     |  21 |   | Weapon     |  31 |
+| Throwing   |  23 |   | Throwing   |  22 |   | Throwing   |  22 |
+| Agility    |  24 |   | Agility    |  25 |   | Agility    |  25 |
+| Defence    |  25 |   | Defence    |  25 |   | Defence    |  25 |
+| Strength   |  19 |   | Strength   |  20 |   | Strength   |  19 |
+| Will Power |  21 |   | Will Power |  22 |   | Will Power |  22 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Tonto            |   | Stick            |   | Mooki            |
+ >================<     >================<     >================<
+| Stamina    |  48 |   | Stamina    |  44 |   | Stamina    |  46 |
+| Punch      |  24 |   | Punch      |  26 |   | Punch      |  26 |
+| Kick       |  25 |   | Kick       |  25 |   | Kick       |  25 |
+| Weapon     |  21 |   | Weapon     |  22 |   | Weapon     |  22 |
+| Throwing   |  23 |   | Throwing   |  21 |   | Throwing   |  21 |
+| Agility    |  24 |   | Agility    |  33 |   | Agility    |  24 |
+| Defence    |  25 |   | Defence    |  26 |   | Defence    |  34 |
+| Strength   |  29 |   | Strength   |  20 |   | Strength   |  21 |
+| Will Power |  21 |   | Will Power |  21 |   | Will Power |  20 |
+ \================/     \================/     \================/
+
+ /================\     /================\     /================\
+| Snake            |   | Sting            |   | Ziggy            |
+ >================<     >================<     >================<
+| Stamina    |  44 |   | Stamina    |  46 |   | Stamina    |  64 |
+| Punch      |  25 |   | Punch      |  25 |   | Punch      |  25 |
+| Kick       |  25 |   | Kick       |  26 |   | Kick       |  26 |
+| Weapon     |  23 |   | Weapon     |  23 |   | Weapon     |  22 |
+| Throwing   |  31 |   | Throwing   |  22 |   | Throwing   |  22 |
+| Agility    |  24 |   | Agility    |  23 |   | Agility    |  23 |
+| Defence    |  25 |   | Defence    |  24 |   | Defence    |  24 |
+| Strength   |  21 |   | Strength   |  20 |   | Strength   |  20 |
+| Will Power |  20 |   | Will Power |  30 |   | Will Power |  22 |
+ \================/     \================/     \================/
+
+
+<---[09j] Bosses------------------------------------------------>
+
+ /==================================\    /==================================\
+| Moose                      [$2.25] |  | Rocko                      [$3.00] |
+ >==================================<    >==================================<
+| Stamina    |  52 | He doesn't have |  | Stamina    |  70 | He is the head  |
+| Punch      |  26 | much power, and |  | Punch      |  34 | of the Mob gang.|
+| Kick       |  35 | has a weak      |  | Kick       |  34 | Like most       |
+| Weapon     |  23 | character. He's |  | Weapon     |  31 | gangsters, he   |
+| Throwing   |  22 | basically a     |  | Throwing   |  31 | has a very      |
+| Agility    |  25 | two-bit thug who|  | Agility    |  32 | strong attack,  |
+| Defence    |  25 | takes orders    |  | Defence    |  33 | but a weak      |
+| Strength   |  28 | from Rocko.     |  | Strength   |  45 | defence.        |
+| Will Power |  24 |                 |  | Will Power |  31 |                 |
+ \==================================/    \==================================/
+
+          /========================================================\
+         | Benny [$2.50]              and             Clyde [$2.50] |
+          >========================================================<
+         | Stamina    |  46 | These guys are     | Stamina    |  48 |
+         | Punch      |  28 | out-of-towners and | Punch      |  28 |
+         | Kick       |  27 | are only in River  | Kick       |  27 |
+         | Weapon     |  29 | City because they  | Weapon     |  29 |
+         | Throwing   |  25 | like a good fight. | Throwing   |  25 |
+         | Agility    |  39 | The two of them are| Agility    |  30 |
+         | Defence    |  29 | very mean and      | Defence    |  37 |
+         | Strength   |  26 | cunning.           | Strength   |  27 |
+         | Will Power |  26 |                    | Will Power |  25 |
+          \========================================================/
+
+ /==================================\     /==================================\
+| Blade                      [$3.50] |   | Turk                       [$3.50] |
+ >==================================<     >==================================<
+| Stamina    |  72 | One of the      |   | Stamina    |  72 | This guy, the   |
+| Punch      |  39 | Zombies, he has |   | Punch      |  40 | third Zombie, is|
+| Kick       |  39 | a very violent  |   | Kick       |  39 | a quick thinker |
+| Weapon     |  37 | character and   |   | Weapon     |  36 | and confuses his|
+| Throwing   |  45 | appears quite   |   | Throwing   |  35 | opponents by his|
+| Agility    |  38 | strong. In      |   | Agility    |  47 | quick moves.    |
+| Defence    |  39 | reality he's not|   | Defence    |  39 |                 |
+| Strength   |  35 | so powerful.    |   | Strength   |  34 |                 |
+| Will Power |  34 |                 |   | Will Power |  35 |                 |
+ \==================================/     \==================================/
+
+ /==================================\     /==================================\
+| Mojo                       [$3.50] |   | Thor                       [$3.75] |
+ >==================================<     >==================================<
+| Stamina    |  74 | Another Zombie, |   | Stamina    |  78 | He is the son of|
+| Punch      |  39 | he is a         |   | Punch      |  42 | a rich local    |
+| Kick       |  38 | dangerous       |   | Kick       |  41 | banker, but     |
+| Weapon     |  45 | opponent. In a  |   | Weapon     |  38 | don't let his   |
+| Throwing   |  36 | rumble, he      |   | Throwing   |  37 | social standing |
+| Agility    |  39 | prefers to fight|   | Agility    |  40 | fool you. He is |
+| Defence    |  39 | with weapons    |   | Defence    |  50 | a mean fighter  |
+| Strength   |  33 | instead of his  |   | Strength   |  37 | and the leader  |
+| Will Power |  36 | bare hands.     |   | Will Power |  36 | of the Zombies. |
+ \==================================/     \==================================/
+
+ /==================================\     /==================================\
+| Ivan                       [$4.00] |   | Otis                       [$8.75] |
+ >==================================<     >==================================<
+| Stamina    |  48 | Ivan guards the |   | Stamina    | 104 | Though not too  |
+| Punch      |  51 | gate to River   |   | Punch      |  45 | strong, he is   |
+| Kick       |  48 | City High for   |   | Kick       |  46 | very clever. His|
+| Weapon     |  44 | the Dragon      |   | Weapon     |  42 | sharp tactics   |
+| Throwing   |  58 | Twins. He knows |   | Throwing   |  42 | make him very   |
+| Agility    |  47 | many tricks and |   | Agility    |  43 | difficult to    |
+| Defence    |  47 | is one tough    |   | Defence    |  44 | defeat.         |
+| Strength   |  44 | opponent to     |   | Strength   |  45 |                 |
+| Will Power |  44 | beat.           |   | Will Power |  42 |                 |
+ \==================================/     \==================================/
+
+                     /==================================\
+                    | Tex                        [$9.50] |
+                     >==================================<
+                    | Stamina    | 102 | He's the ornery |
+                    | Punch      |  16 | head honcho of  |
+                    | Kick       |  15 | the Cowboys     |
+                    | Weapon     |  61 | gang. He is at  |
+                    | Throwing   |  48 | his toughest    |
+                    | Agility    |  49 | with a weapon in|
+                    | Defence    |  48 | his hand. So    |
+                    | Strength   |  49 | watch out!      |
+                    | Will Power |  50 |                 |
+                     \==================================/
+
+          /========================================================\
+         | Randy [$18.00]             and             Andy [$18.00] |
+          >========================================================<
+         | Stamina    | 102 | Also known as the  | Stamina    | 104 |
+         | Punch      |  51 | Dragon Twins, they | Punch      |  62 |
+         | Kick       |  61 | are the strongest  | Kick       |  52 |
+         | Weapon     |  49 | fighters Slick has | Weapon     |  50 |
+         | Throwing   |  50 | arrayed against    | Throwing   |  51 |
+         | Agility    |  53 | you.               | Agility    |  52 |
+         | Defence    |  53 |                    | Defence    |  53 |
+         | Strength   |  48 |                    | Strength   |  47 |
+         | Will Power |  50 |                    | Will Power |  49 |
+          \========================================================/
+
+                     /==================================\
+                    | Simon                        [N/A] |
+                     >==================================<
+                    | Stamina    | 118 | The feared      |
+                    | Punch      |  61 | "Slick" turns   |
+                    | Kick       |  62 | out to be Simon |
+                    | Weapon     |  59 | from the Double |
+                    | Throwing   |  58 | Dragon games    |
+                    | Agility    |  59 |                 |
+                    | Defence    |  60 |                 |
+                    | Strength   |  56 |                 |
+                    | Will Power |  63 |                 |
+                     \==================================/
+
+
+<--[11a] Grotto Mall-------------------------------------------->
+Fraser Mall
+ /===========================================================================\
+| Shop                  | Item         | $      | Effect                      |
+ >===========================================================================<
+| Rise & Shine Cafe     | Coffee       |   0.95 | WP+2, ST+15, MP+4           |
+| Rams Horn             |--------------|--------|-----------------------------|
+|                       | Tea          |   0.95 | WP+4                        |
+|                       |--------------|--------|-----------------------------|
+|                       | Hot Cocoa    |   1.25 | D+1, ST+24, MP+5            |
+|                       |--------------|--------|-----------------------------|
+|                       | Pancakes     |   3.30 | ST+25, MP+7                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Waffles      |   4.10 | AG+1, SG+1, ST+25, MP+6     |
+ >---------------------------------------------------------------------------<
+| Metro Bakery          | Donut        |   0.80 | WP+6                        |
+| E.D. Bakery           |--------------|--------|-----------------------------|
+|                       | Muffin       |   0.90 | AG+1, ST+6, MP+1            |
+|                       |--------------|--------|-----------------------------|
+|                       | Bagel        |   0.90 | D+1, ST+6, MP+1             |
+|                       |--------------|--------|-----------------------------|
+|                       | Honey Bun    |   0.90 | SG+1, ST+6, MP+1            |
+|                       |--------------|--------|-----------------------------|
+|                       | Croissant    |   1.00 | ST+8, MP+1                  |
+ >Cedar Gdn------------------------------------------------------------------<
+| Sushi Bar             | Egg          |   2.25 | P+1, ST+10, MP+2            |
+| [Cheaper Sushi]       |-Jok----------|--------|-----------------------------|
+|  Vegetarian           | Octopus      |   2.25 | WN+1, ST+8, MP+2            |
+|                       |-Falafel------|--------|-----------------------------|
+|                       | Squid        |   2.25 | TH+2, ST+4, MP+1            |
+|                       |-Soyet--------|--------|-----------------------------|
+|                       | Conger Eel   |   3.75 | D+2, ST+16, MP+3            |
+|                       |-Mjadra----------------|-----------------------------|
+|                       | Prawn        |   6.00 | SG+2, ST+32, MP+3           |
+|-----------------------|-Baba@--------|--------|-----------------------------|
+| [Expensive Sushi]     | Salmon       |   8.25 | P+1, WP+2, ST+40, MP+7      |
+|                       |--------------|--------|-----------------------------|
+|                       | Ark Shell    |   9.00 | WN+1, WP+2, ST+50, MP+12    |
+|                       |--------------|--------|-----------------------------|
+|                       | Sea Urchin   |  11.50 | TH+2, WP+2, ST+64, MP+14    |
+|                       |--------------|--------|-----------------------------|
+|                       | Halibut      |  18.50 | D+3, WP+7, ST+80, MP+20     |
+|                       |--------------|--------|-----------------------------|
+|                       | Swordfish    |  28.75 | P+4, TH+4, SG+4, WP+5,      |
+|                       | ShishSwrd    |        | ST+80, MP+8                 |
+|-----------------------|--------------|--------|-----------------------------|
+| [Rolls]               | Salad Roll   |   2.00 | ST+20, MP+5                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Tuna Roll    |   3.75 | ST+32, MP+7                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Shrimp Roll  |   6.25 | ST+50, MP+11                |
+|                       |--------------|--------|-----------------------------|
+|                       | Mixed Roll   |  10.50 | ST+80, MP+15                |
+ >---------------------------------------------------------------------------<
+| Grotto Book Store     | Stone Hands  |  26.95 | Triple Punches              |
+| SecondStory Books     |--------------|--------|-----------------------------|
+|                       | Dragon Feet  |  26.95 | Triple Kicks                |
+|                       |--------------|--------|-----------------------------|
+|                       | Acro Circus  |  26.95 | Running Somersaults         |
+ \===========================================================================/
+
+
+<--[11b] Waterfront Mall---------------------------------------->
+Macomb Mall
+ /===========================================================================\
+| Shop                  | Item         | $      | Effect                      |
+ >===========================================================================<
+| Waterfront Books      | Scandal Rag  |   4.50 | D+2, WP+3                   |
+| Comic Kingdom         |--------------|--------|-----------------------------|
+|                       | Comic Times  |   6.50 | WN+2, D+1, WP+4             |
+|                       |--------------|--------|-----------------------------|
+|                       | Mystic Seer  |  18.00 | AG+2, WP+13                 |
+|                       |-TMNT & O.S.--|--------|-----------------------------|
+|                       | Nuclear Spy  |   9.95 | ST+4, WP+5                  |
+|                       |--------------|--------|-----------------------------|
+|                       | Indian Lore  |  28.75 | WP+30                       |
+ >------------------------DM`s Guide-----------------------------------------<
+| Chez Walle's          | Salad Paris  |   2.35 | ST+10, MP+2                 |
+| Prime Time            |-Bean Salad---|--------|-----------------------------|
+|                       | Onion Soup   |   3.50 | ST+12, MP+2                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Cornish Hen  |  27.75 | TH+4, WP+25                 |
+|                       |-Frog Legs----|--------|-----------------------------|
+|                       | Veal Walle   |  36.00 | SG+5, WP+28, ST+99, MP+24   |
+ >------------------------Veal Prime-----------------------------------------<
+| Mao's Place           | Egg Roll     |   3.50 | D+3, ST+24, MP+6            |
+| WongsGarden           |--------------|--------|-----------------------------|
+|                       | Fried Rice   |   5.95 | TH+1, ST+40, MP+1           |
+|                       |--------------|--------|-----------------------------|
+|                       | Garlic Pork  |   5.75 | WN+1, ST+32, MP+7           |
+|                       |-Almond Chkn--|--------|-----------------------------|
+|                       | Pepper Beef  |   5.95 | ST+52, MP+10                |
+|                       |--------------|--------|-----------------------------|
+|                       | Chow Mein    |   5.95 | K+1, ST+40, MP+9            |
+ >------------------------Gen Tao's------------------------------------------<
+| Merv's Burger Joint   | Merv Burger  |   2.00 | WN+1, ST+8, MP+1            |
+| [Sandwiches]          |-ChampBurger--|--------|-----------------------------|
+| Checkers              | Cheese Merv  |   2.25 | TH+1, ST+10, MP+2           |
+|                       |-CheeseChamp--|--------|-----------------------------|
+|                       | Fish Merv    |   2.50 | AG+1, ST+12, MP+2           |
+|                       |-Dlb Champ----|--------|-----------------------------|
+|                       | Mondo Merv   |   3.45 | WP+2, ST+16, MP+3           |
+|-----------------------|-Big Buford---|--------|-----------------------------|
+| [Drinks]              | Milk         |   0.85 | ST+10, MP+2                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Iced Tea     |   0.95 | WP+2                        |
+|                       |--------------|--------|-----------------------------|
+|                       | Soda         |   1.10 | WN+1, ST+8, MP+2            |
+|                       |--------------|--------|-----------------------------|
+|                       | Merv Malt    |   2.00 | D+1, ST+10, MP+2            |
+|-----------------------|-Milkshake----|--------|-----------------------------|
+| [Side Orders]         | Merv Fries   |   1.50 | ST+14, MP+3                 |
+|                       |-SeasondFry---|--------|-----------------------------|
+|                       | Merv Rings   |   1.50 | SG+1, ST+12, MP+3           |
+|                       |--------------|--------|-----------------------------|
+|                       | Apple Pie    |   2.00 | AG+1, ST+10, MP+2           |
+|                       |-AppleNugs----|--------|-----------------------------|
+|                       | Spicy Chili  |   2.75 | D+1, ST+16, MP+3            |
+|                       |--------------|--------|-----------------------------|
+|                       | Smile        | Free   | "Alex/Ryan Blushed"         |
+ >---------------------------------------------------------------------------<
+| Jones' Pharmacy       | Vita-Mints   |   2.10 | WP+1, ST+8, MP+2            |
+| Rite Aid              |--------------|--------|-----------------------------|
+|                       | Digestol     |   4.95 | WP+2, ST+24, MP+6           |
+|                       |--------------|--------|-----------------------------|
+|                       | Recharge!    |   9.75 | SG+1, WP+2, ST+56, MP+14    |
+|                       |--------------|--------|-----------------------------|
+|                       | Karma Jolt   |  15.25 | TH+3, ST+99, MP+24          |
+|                       |--------------|--------|-----------------------------|
+|                       | Omni Elixir  |  19.95 | P+2, WP+8, ST+80, MP+20     |
+ \===========================================================================/
+
+
+<--[11c] Merlin's Mystery Shop---------------------------------->
+<--[11c] El Bacho's Bodega    ---------------------------------->
+
+ /===========================================================================\
+| Shop                  | Item         | $      | Effect                      |
+ >===========================================================================<
+| Merlin's Mystery Shop | Excaliber    | 100.00 | WN+30, WP+48, ST+99, MP+24  |
+| El Bacho's Bodega     |--------------|--------|-----------------------------|
+|                       | Zeus' Wand   | 200.00 | TH+48, SG+48, WP+48, ST+99, |
+|                       |              |        | MP+24                       |
+|                       |--------------|--------|-----------------------------|
+|                       | Rodan Wing   | 100.00 | D+30, WP+48, ST+99, MP+24   |
+|                       |--------------|--------|-----------------------------|
+|                       | Gold Medal   | 100.00 | P+30, WP+48, ST+99, MP+24   |
+|                       |--------------|--------|-----------------------------|
+|                       | Isis Scroll  |  20.00 | TH+20                       |
+ \===========================================================================/
+
+
+<--[11d] Flatirons Mall----------------------------------------->
+Eastland Mall
+ /===========================================================================\
+| Shop                  | Item         | $      | Effect                      |
+ >===========================================================================<
+| Flatirons Books       | Stone Hands  |  26.95 | Triple Punches              |
+| Barnes and Noble      |--------------|--------|-----------------------------|
+|                       | Dragon Feet  |  26.95 | Triple Kicks                |
+|                       |--------------|--------|-----------------------------|
+|                       | Fatal Steps  |  37.50 | Stamp on Enemies            |
+ >---------------------------------------------------------------------------<
+| The Roman Cow         | Ice Cream    |   3.50 | AG+2, ST+16, MP+4           |
+| Cloverleaf            |--------------|--------|-----------------------------|
+|                       | Roman Shake  |   4.25 | WN+2, ST+24, MP+6           |
+|                       |--------------|--------|-----------------------------|
+|                       | Cola Float   |   4.75 | D+2, ST+32, MP+8            |
+|                       |--------------|--------|-----------------------------|
+|                       | Nero Pizza   |   6.25 | ST+50, MP+12                |
+|                       |-DTW Pizza----|--------|-----------------------------|
+|                       | Lasagna      |   6.25 | ST+48, MP+12                |
+ >---------------------------------------------------------------------------<
+| Amy's Sweet Tooth     | Mint Gum     |   0.95 | SG+1, WP+1                  |
+| Z's Penny Candy       |--------------|--------|-----------------------------|
+|                       | Lolly Pop    |   0.95 | TH+1, WP+1                  |
+|                       |--------------|--------|-----------------------------|
+|                       | Jaw Breaker  |   0.95 | WN+1, WP+1                  |
+|                       |--------------|--------|-----------------------------|
+|                       | Rock Candy   |   0.95 | P+1, WP+1                   |
+|                       |--------------|--------|-----------------------------|
+|                       | Fudge Bar    |   0.95 | K+1, WP+1                   |
+ >---------------------------------------------------------------------------<
+| Happy Feet Shoes      | Sneakers     |  28.00 | K+10, AG+20                 |
+| Mr. Alan              |--------------|--------|-----------------------------|
+|                       | Boat Shoes   |  37.95 | K+10, AG+30                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Loafers      |  45.50 | K+30, AG+15                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Army Boots   |  58.75 | K+40, AG+20                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Texas Boots  |  99.95 | K+60, AG+60                 |
+|-----------------------|--------------|--------|-----------------------------|
+| [Others]              | Slippers     |   4.95 | K+2, AG+2                   |
+|                       |--------------|--------|-----------------------------|
+|                       | Insoles      |   8.20 | SG+7                        |
+|                       |--------------|--------|-----------------------------|
+|                       | Thongs       |   9.75 | K+4, AG+3                   |
+|                       |--------------|--------|-----------------------------|
+|                       | Sandals      |  19.95 | K+7, AG+13                  |
+|                       |--------------|--------|-----------------------------|
+|                       | Mod Boots    |  59.75 | K+20, AG+40                 |
+ >------------------------Air Jrdns------------------------------------------<
+| Butcher Shop          | Sirloin      |   4.95 | P+2, TH+3                   |
+| Marcos Meats          |--------------|--------|-----------------------------|
+|                       | Rib-eye      |   5.95 | P+1, AG+4                   |
+|                       |--------------|--------|-----------------------------|
+|                       | T-bone       |   6.95 | P+3, D+3                    |
+|                       |--------------|--------|-----------------------------|
+|                       | Lamb Leg     |  11.95 | P+2, WP+48                  |
+ >---------------------------------------------------------------------------<
+| Toys Galore           | Maze Craze   |  52.75 | K+1, WP+40, ST+87, MP+24    |
+| Masquerade            |--------------|--------|-----------------------------|
+|                       | Decathlete   |  57.50 | SG+3, WP+43, ST+86, MP+24   |
+|                       |--------------|--------|-----------------------------|
+|                       | Hyper Ball   |  57.50 | WN+4, TH+4, WP+38, ST+84,   |
+|                       |              |        | MP+24                       |
+|                       |--------------|--------|-----------------------------|
+|                       | Techno Belt  |  27.25 | SG+18, ST+80, MP+20         |
+|                       |--------------|--------|-----------------------------|
+|                       | Teddy Bear   |  28.00 | SG+20, ST+80, MP+20         |
+ >---------------------------------------------------------------------------<
+| CD Cellar             | R & B        |   9.95 | SG+3, ST+56, MP+14          |
+| RcordTime             |--------------|--------|-----------------------------|
+|                       | Rock         |   9.95 | P+4, ST+48, MP+12           |
+|                       |--------------|--------|-----------------------------|
+|                       | Pop          |   9.95 | D+4, ST+48, MP+12           |
+|                       |--------------|--------|-----------------------------|
+|                       | Soul         |   9.95 | AG+4, ST+48, MP+12          |
+|                       |--------------|--------|-----------------------------|
+|                       | Classical    |   9.95 | WP+4, ST+48, MP+12          |
+ \===========================================================================/
+
+
+<--[11e] Oak Hill Mall------------------------------------------>
+Eastbrook Commons
+ /===========================================================================\
+| Shop                  | Item         | $      | Effect                      |
+ >===========================================================================<
+| The Tea Bag           | Fresh Juice  |   1.85 | WP+2, ST+16, MP+4           |
+| Rabbles               |--------------|--------|-----------------------------|
+|                       | Lemon Tea    |   2.35 | WP+4                        |
+|                       |--------------|--------|-----------------------------|
+|                       | Herbal Tea   |   2.35 | SG+1, ST+16, MP+4           |
+|                       |--------------|--------|-----------------------------|
+|                       | Carrot Cake  |   4.15 | WN+2, ST+24, MP+6           |
+|                       |--------------|--------|-----------------------------|
+|                       | Pound Cake   |   4.15 | P+1, K+1, ST+28, MP+7       |
+ >---------------------------------------------------------------------------<
+| Kate's Cookies        | Sugar        |   1.00 | WP+1, ST+6, MP+1            |
+|                       |--------------|--------|-----------------------------|
+|                       | Toll House   |   1.00 | D+1, ST+6, MP+1             |
+|                       |--------------|--------|-----------------------------|
+|                       | Maple Pecan  |   1.00 | SG+1, ST+6, MP+1            |
+|                       |--------------|--------|-----------------------------|
+|                       | Oatmeal      |   1.00 | P+1, ST+6, MP+1             |
+|                       |--------------|--------|-----------------------------|
+|                       | Brownie      |   1.00 | WN+1, ST+6, MP+1            |
+ >---------------------------------------------------------------------------<
+| Oak Hill Bookstore    | Stone Hands  |  26.95 | Triple Punches              |
+|                       |--------------|--------|-----------------------------|
+|                       | Dragon Feet  |  26.95 | Triple Kicks                |
+|                       |--------------|--------|-----------------------------|
+|                       | Grand Slam   |  57.50 | Triple Attacks with Weapons |
+ >---------------------------------------------------------------------------<
+| Read All About It     | Stone Hands  |  26.95 | Triple Punches              |
+|                       |--------------|--------|-----------------------------|
+|                       | Dragon Feet  |  26.95 | Triple Kicks                |
+|                       |--------------|--------|-----------------------------|
+|                       | Javelin Man  |  78.25 | Throw opponents             |
+ >---------------------------------------------------------------------------<
+| Hack's Chicken Shack  | Chickwich    |   2.10 | WN+1, ST+8, MP+2            |
+| [Chicken]             |--------------|--------|-----------------------------|
+| The Chicken Shack     | Dark Meat    |   2.65 | TH+1, ST+10, MP+2           |
+|                       |--------------|--------|-----------------------------|
+|                       | White Meat   |   3.25 | AG+1, ST+12, MP+3           |
+|                       |--------------|--------|-----------------------------|
+|                       | Combination  |   4.00 | WP+2, ST+16, MP+4           |
+|-----------------------|--------------|--------|-----------------------------|
+| [Beverages]           | Milk         |   0.85 | ST+10, MP+2                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Iced Tea     |   0.95 | WP+2                        |
+|                       |--------------|--------|-----------------------------|
+|                       | Soda         |   1.10 | WN+1, ST+8, MP+2            |
+|                       |--------------|--------|-----------------------------|
+|                       | Lemonade     |   1.85 | D+1, ST+10, MP+2            |
+|-----------------------|--------------|--------|-----------------------------|
+| [Fixin's]             | Gravy        |   1.50 | ST+14, MP+3                 |
+|                       |--------------|--------|-----------------------------|
+|                       | Biscuits     |   1.50 | SG+1, ST+12, MP+3           |
+|                       |--------------|--------|-----------------------------|
+|                       | Corn Cobbler |   2.25 | AG+1, ST+10, MP+2           |
+|                       |-BrstdPotatos-|--------|-----------------------------|
+|                       | Cole Slaw    |   2.85 | D+1, ST+16, MP+4            |
+|                       |--------------|--------|-----------------------------|
+|                       | Smile        | Free   | "Alex/Ryan Blushed"         |
+ >---------------------------------------------------------------------------<
+| Cedar Street Drugs    | Vita-mints   |   2.10 | WP+1, ST+8, MP+2            |
+|                       |--------------|--------|-----------------------------|
+|                       | Date Saver   |   7.95 | WP+3, ST+40, MP+10          |
+|                       |--------------|--------|-----------------------------|
+|                       | Love Potion  |   9.95 | ST+80, MP+20                |
+|                       |--------------|--------|-----------------------------|
+|                       | Antedote 12  |  10.00 | SG+1, WP+3, ST+48, MP+12    |
+|                       |--------------|--------|-----------------------------|
+|                       | Karma Jolt   |  15.25 | TH+3, ST+99, MP+24          |
+ \===========================================================================/
+
+
+<--[11f] Burb Village------------------------------------------->
+
+ /===========================================================================\
+| Shop                  | Item         | $      | Effect                      |
+ >===========================================================================<
+| Pop's Health Club     | Sauna        |   3.50 | WP+15, ST+30, MP+8          |
+ \===========================================================================/
+
+                     
+
+/==========================================================\
+| No | Name                        | New Name               |
+ >==========================================================<
+| 01 | Crosstown High School       | Macomb Comm. College    |
+| 02 | Sticksville #1              | Hayes                   |
+| 03 | Grotto Mall                 | Fraser Mall             |
+| 04 | Sticksville #2              | 13 Mile                 |
+| 05 | Sticksville #3              | Masonic                 |
+| 06 | Waterfront Mall             | Macomb Mall             |
+| 07 | Capitol Ave. Bridge #1      | Lakeshore School        |
+| 08 | Capitol Ave. Bridge #2      | Lakeshore Field         |
+| 09 | Downtown #1                 | Gratiot N.              |
+| 10 | WSL Co. Warehouse #1        | Bill's Trans Back       |
+| 11 | WSL Co. Warehouse #2        | Bill's Trans Inside     |
+| 12 | Sherman Park                | Kennedy Pk              |
+| 13 | WST Co. Warehouse #3        | Bill's Trans Alley      |
+| 14 | Armstrong Thru-way #1       | I-94 Expressway #1      |
+| 15 | Armstrong Thru-way #2       | I-94 Expressway #2      |
+| 16 | Armstrong Thru-way #3       | I-94 Expressway #2      |
+| 17 | Downtown #2                 | Harper                  |
+| 18 | Flatirons Mall #1           | Eastland Mall #1        |
+| 19 | Flatirons Mall #2           | Eastland Mall #2        |
+| 20 | Downtown #3                 | 8 Mile #1               |
+| 21 | Vacant 3rd Wheel Factory #1 | FreshPot #1             |
+| 22 | Vacant 3rd Wheel Factory #2 | FreshPot #2             |
+| 23 | Vacant 3rd Wheel Factory #3 | FreshPot #1             |
+| 24 | Downtown #4                 | Gratiot S #2            |
+| 25 | Oak Hill Mall #1            | Eastbrook Commons #1    |
+| 26 | Oak Hill Mall #2            | Eastbrook Commons #2    |
+| 27 | Burb Village #1             | 9 Mile #1               |
+| 28 | Burb Village #2             | 9 Mile #2               |
+| 29 | River City High #1          | EDHS 9MILE DOOR         |
+| 30 | River City High #2          | EDHS GYM                |
+| 31 | River City High #3          | EDHS SCIENCE WING       |
+| 32 | River City High #4          | EDHS OLD 2nd            |
+| 33 | River City High #5          | EDHS NEW 2nd            |
+| 34 | River City High #6          | EDHS NEW 3rd            |
+| 35 | River City High #7          | EDHS ROOF               |
+ \==========================================================/
